@@ -1,0 +1,11 @@
+C:\Users\student\Desktop\homworks\Project_Hotel__1-main\Hotel_Interfface\bin\Debug\Hotel_Interfface.exe.config
+C:\Users\student\Desktop\homworks\Project_Hotel__1-main\Hotel_Interfface\bin\Debug\Hotel_Interfface.exe
+C:\Users\student\Desktop\homworks\Project_Hotel__1-main\Hotel_Interfface\bin\Debug\Hotel_Interfface.pdb
+C:\Users\student\Desktop\homworks\Project_Hotel__1-main\Hotel_Interfface\obj\Debug\Hotel_Interfface.csprojAssemblyReference.cache
+C:\Users\student\Desktop\homworks\Project_Hotel__1-main\Hotel_Interfface\obj\Debug\Hotel_Interfface.Form1.resources
+C:\Users\student\Desktop\homworks\Project_Hotel__1-main\Hotel_Interfface\obj\Debug\Hotel_Interfface.Properties.Resources.resources
+C:\Users\student\Desktop\homworks\Project_Hotel__1-main\Hotel_Interfface\obj\Debug\Hotel_Interfface.csproj.GenerateResource.cache
+C:\Users\student\Desktop\homworks\Project_Hotel__1-main\Hotel_Interfface\obj\Debug\Hotel_Interfface.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\homworks\Project_Hotel__1-main\Hotel_Interfface\obj\Debug\Hotel_Interfface.exe
+C:\Users\student\Desktop\homworks\Project_Hotel__1-main\Hotel_Interfface\obj\Debug\Hotel_Interfface.pdb
+C:\Users\student\Desktop\homworks\Project_Hotel__1-main\Hotel_Interfface\obj\Debug\Hotel_Interfface.Form2.resources
